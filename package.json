@@ -37,7 +37,7 @@
     "cids": "^1.1.9",
     "dotenv": "^10.0.0",
     "ethereum-multicall": "^2.9.0",
-    "graphql": "^16.2.0",
+    "graphql": "^16.9.0",
     "hardhat-abi-exporter": "^2.4.0",
     "isomorphic-unfetch": "^3.1.0",
     "urql": "^2.0.6"
