@@ -40,7 +40,7 @@
     "graphql": "^16.2.0",
     "hardhat-abi-exporter": "^2.4.0",
     "isomorphic-unfetch": "^3.1.0",
-    "urql": "^2.0.6"
+    "urql": "^2.2.3"
   },
   "devDependencies": {
     "@nomicfoundation/hardhat-verify": "^1.1.1",
