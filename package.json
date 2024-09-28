@@ -33,13 +33,13 @@
   "dependencies": {
     "@chainlink/contracts": "^0.2.1",
     "@cosmjs/encoding": "^0.31.3",
-    "axios": "^0.24.0",
+    "axios": "^1.6.8",
     "cids": "^1.1.9",
     "dotenv": "^10.0.0",
     "ethereum-multicall": "^2.9.0",
     "graphql": "^16.2.0",
     "hardhat-abi-exporter": "^2.4.0",
-    "isomorphic-unfetch": "^3.1.0",
+    "isomorphic-unfetch": "^4.0.0",
     "urql": "^2.0.6"
   },
   "devDependencies": {
